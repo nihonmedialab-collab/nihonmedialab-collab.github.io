@@ -4,9 +4,9 @@ header .wrap { display: flex; flex-wrap: wrap; gap: 8px 20px; align-items: basel
 header a { color: #fff; text-decoration: none; }
 header .name { font-size: 20px; font-weight: 600; margin-right: auto; }
 .wrap { max-width: 760px; margin: 0 auto; padding: 0 16px; }
-main { padding: 24px 0 48px; }
+main.wrap { padding: 28px 16px 48px; }
 h1 { font-size: 26px; margin: 0 0 4px; }
 h2 { font-size: 18px; margin: 28px 0 6px; }
 .updated { color: #666; margin: 0 0 16px; }
 a { color: #1a5fb4; overflow-wrap: anywhere; }
-footer { border-top: 1px solid #ddd; color: #666; font-size: 14px; padding: 16px 0 32px; }
+footer.wrap { border-top: 1px solid #ddd; color: #666; font-size: 14px; padding: 16px 16px 32px; }
